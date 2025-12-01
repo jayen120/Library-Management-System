@@ -57,7 +57,7 @@ Built with **Java, Spring Boot, JPA/Hibernate, MySQL**, and tested with **Postma
 ## ▶️ Running the Project
 1. Clone the repository:
    ```bash
-   git clone https://github.com/<your-username>/library-management-system.git
+   git clone https://github.com/jayen120/Library_Management_System.git
    cd library-management-system
 
 2. Configure application.properties with your MySQL credentials.
